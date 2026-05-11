@@ -6,7 +6,7 @@ const PAT_W = 95;
 const CONTENT_X = PAT_W;
 const CONTENT_W = W - PAT_W * 2;
 const CENTER_X = W / 2;
-const BRAND = '#651d1a';
+const BRAND = '#b98039';
 
 function loadImg(src) {
   return new Promise((res, rej) => {
