@@ -6,7 +6,7 @@ const PAT_W = 47;  // preview at 0.5x scale
 const CONTENT_X = PAT_W;
 const CONTENT_W = W - PAT_W * 2;
 const CENTER_X = W / 2;
-const BRAND = '#a47d48';
+const BRAND = '#b98039';
 
 function loadImg(src) {
   return new Promise((res, rej) => {

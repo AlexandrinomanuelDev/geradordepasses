@@ -10,7 +10,7 @@ GlobalFonts.registerFromPath(path.join(ASSETS, 'VAGRounded-Black.otf'), 'VAGRoun
 
 const W = 800;
 const H = 1200;
-const BRAND_COLOR = '#a47d48';
+const BRAND_COLOR = '#b98039';
 
 // Pattern strips: 95px cada lado
 const PAT_W = 95;
